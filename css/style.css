@@ -1,0 +1,53 @@
+nav{
+  background-color: grey;
+  padding: 10px;
+}
+a {
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+  position: center;
+  
+}
+
+img{
+  margin: 10px;
+}
+
+.class1{
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.class2 {
+  padding: 10px;
+  display: flex;
+  /* justify-content: space-between; */
+}
+
+p{
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+  display: inline-block ;
+  height: 380px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: justify;
+
+}
+h3 {
+  font-size: larger;
+}
+
+.class2 div{
+ height: 380px;
+ width: 400px;
+}
+
+/* button{
+  width: 100px;
+  display: inline;
+  position: absolute;
+  right: 1125px;
+  bottom: -510px;
+} */
